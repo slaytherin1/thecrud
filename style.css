@@ -1,0 +1,56 @@
+html {
+    background: url('back.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin-bottom: 0%;
+}
+
+label {
+    color: white;
+}
+
+#delete {
+    margin-left: 10px;
+}
+
+#padtd {
+    padding-right: 180px;
+}
+
+#theCRUD {
+    margin-bottom: 20px;
+}
+
+#addbody {
+    background: azure;
+    margin-top: 70px;
+    border: solid 1px white;
+    margin-left: 35%;
+    margin-right: 30%;
+    padding-left: 5px;
+    padding-top: 40px;
+    border-radius: 10px;
+    color: black;
+}
+p {
+    margin-left: 130px;
+}
+
+#submit {
+    margin-bottom: 20px;
+}
+
+#updatebody {
+    margin-top: 40px;
+    background: azure;
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+
+h1 {
+    font-family: "", Times, serif;
+}
+
+#empty {
+    margin-right: 66%;
+}
