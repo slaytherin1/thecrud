@@ -4,7 +4,7 @@
     <link rel="stylesheet" type="text/css" href="icons/css/materialdesignicons.min.css">
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>The CRUD</title>
-</head>
+</head> 
 <body>
 <div class="row">
     <div class="col s12 m5 l8 offset-l2 white">
