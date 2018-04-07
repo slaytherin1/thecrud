@@ -17,7 +17,7 @@ if ($result = $conn->query("SELECT * FROM names")) {
 <head>
 	<title>List of names</title>
 	<link rel="stylesheet" type="text/css" href="css/materialize.min.css">
-	<link rel="stylesheet" type="text/css" href="https://app-1489925475.000webhostapp.com/icons/css/materialdesignicons.min.css">
+	<!-- <link rel="stylesheet" type="text/css" href="https://app-1489925475.000webhostapp.com/icons/css/materialdesignicons.min.css"> -->
     <link rel="stylesheet" type="text/css" href="style.css">
     <style> .row { margin-top: 30px; } </style>
 </head>

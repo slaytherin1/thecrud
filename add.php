@@ -26,7 +26,7 @@ if (isset($_POST['submit'])) {
 <head>
 	<title>Add</title>
     <link rel="stylesheet" type="text/css" href="css/materialize.min.css">
-	<link rel="stylesheet" type="text/css" href="https://app-1489925475.000webhostapp.com/icons/css/materialdesignicons.min.css">
+	<!-- <link rel="stylesheet" type="text/css" href="https://app-1489925475.000webhostapp.com/icons/css/materialdesignicons.min.css"> -->
     <link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
