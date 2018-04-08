@@ -6,7 +6,7 @@ Live Demo: [https://www.sublimetext.com/](https://www.sublimetext.com/)
 
 ## What do you need to make CRUD?
 >For starters you need a text Editor like [Sublime Text](https://www.sublimetext.com/ "Sublime Text") , [Brackets](http://brackets.io/ "Brackets") and [Atom](https://atom.io/ "Atom") those are the ones i recommend. They're cool, awesome and free.
-Second , you need a server like apache. I used XAMPP its great and easy to use([Try it](https://www.apachefriends.org/ "Try it") ).
+Second , you need a server like apache. I used XAMPP its great and easy to use([Try it](https://www.apachefriends.org/ "https://www.apachefriends.org/ ") ).
 Lastly , you need a basic knowledge about `HTML`, `CSS` and `PHP`
 
 ## What i used to make this CRUD?
